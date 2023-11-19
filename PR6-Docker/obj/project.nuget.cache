@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PSRBYWQYKuNGSN5mZurxbfgRf0DTWH9q1Dr3SlIy0cylAr+DJi9wS2YR2n1TzjRWOTxufYbWngN+00De7kAWpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\serge\\source\\repos\\PR6-Docker\\PR6-Docker\\PR6-Docker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serge\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
